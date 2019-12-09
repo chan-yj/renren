@@ -24,6 +24,7 @@ import java.lang.annotation.Target;
 @Documented
 public @interface SysLog {
 
+	//测试测试
 	String value() default "";
-	
+
 }
